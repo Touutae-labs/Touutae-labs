@@ -4,7 +4,7 @@
 :whale: Some random dude from thailand who love open source and innovation :3 🤍
 
 - [Rytry.gg](https://rytry.gg/) A Tracker for Compettitive Gamer, build in Desktop application
-- [Peachy Collection](https://peachytheme.party) A cozy dark theme for your whole dev setup.
+- [Peachytheme.party](https://peachytheme.party) A cozy dark theme for your whole dev setup.
 
 [Here](https://touutae-lab.github.io/Touutae-lab/) <- Please don't click. I won't forget you—it's for memorial purposes.
 
