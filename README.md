@@ -3,7 +3,7 @@
 
 :whale: Some random dude from thailand who love open source and innovation :3 🤍
 
-- [QuickPeach](https://quickpeach.io) compact launcher window for search-first commands and previous activity, user-centric.
+- [QuickPeach](https://quickpeach.com) compact launcher window for search-first commands and previous activity, user-centric.
 - [Rytry.gg](https://rytry.gg/) A Tracker for Compettitive Gamer, build in Desktop application
 - [Peachytheme.party](https://peachytheme.party) A cozy dark theme for your whole dev setup.
 
