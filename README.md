@@ -7,8 +7,6 @@
 - [Rytry.gg](https://rytry.gg/) A Tracker for Compettitive Gamer, build in Desktop application
 - [Peachytheme.party](https://peachytheme.party) A cozy dark theme for your whole dev setup.
 
-[Here](https://touutae-lab.github.io/Touutae-lab/) <- Please don't click. I won't forget you—it's for memorial purposes.
-
 <br/>
 
 <table>
@@ -22,9 +20,6 @@
     </tr>
 </table>
 
-
-## My badge !
-<img src="https://tryhackme-badges.s3.amazonaws.com/touutae.png" alt="TryHackMe">
 
 ## Streak
 <picture>
@@ -59,6 +54,4 @@
 </picture>
 
 ## Contact
-<a href="https://twitter.com/iamtouutae/" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"/></a>
-<a href="https://www.linkedin.com/in/pantakan-kanprawet-66239720b/"  target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/></a>
-<a href="mailto:pantakan.totae@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/></a>
+<a href="mailto:pantakan.k@voxelwavestudio.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/zoho/zoho-icon.svg"/></a>
